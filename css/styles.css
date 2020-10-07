@@ -1,0 +1,62 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input{
+  width: 50%;
+  height: 50px;
+margin: .4rem 50px;
+border-radius: 12px;
+border-color: white;
+
+}
+.check{
+  margin: .4rem -300px;
+  background-color: #91d18b;
+}
+input:hover{
+  background-color:#e8ffff;
+
+}
+
+label {
+    margin: .4rem 50px;
+    color: white;
+
+}
+.birth,h1,h6{
+  margin: .4rem 100px;
+  color:white;
+}
+h1:hover{
+  color: #00587a;
+}
+img{
+  width: 40%;
+  float:right;
+  margin-left: 100px;
+  margin-top: 0px;
+}
+
+
+button{
+  color:black;
+  background-color:white;
+  margin-left: 100px;
+  border-radius: 12px;
+  border-color: white;
+  width: 250px;
+  height:50px;
+  border-color:#006a71;
+    transition-duration:0.4s;
+}
+button:hover{
+  background-color:#00587a;
+
+}
+
+
+body{
+  background-color: #51adcf;
+}
